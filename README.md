@@ -23,12 +23,18 @@ Italiano: Madrelingua                          Inglese: Avanzato                
 -	Apprendimento continuo
 
 # ISTRUZIONE E FORMAZIONE
-•	2026/in corso – Certificazione di specializzazione in # Agentic AI & Python presso Aulab,(BA)
-•	2026 – Certificazione # Web Application Developer Certipass presso Aulab,(BA)
-•	2020 – Certificazione CIPD Livello 5 in # Gestione delle Risorse Umane presso ICS Learn, (UK)
-•	2018 – Certificazione CIPD Livello 3 in # Pratiche di Risorse Umane presso ICS Learn, (UK)
-•	2014 – Certificazione di #Lingua Inglese Livello C1 presso Embassy Study Centre, (UK)
-•	2014 – Diploma di maturità Scientifica presso il Liceo S.Di Giacomo, (NA)
+	2026/in corso – Certificazione di specializzazione in # Agentic AI & Python presso Aulab,(BA)
+
+	2026 – Certificazione # Web Application Developer Certipass presso Aulab,(BA)
+  
+	2020 – Certificazione CIPD Livello 5 in # Gestione delle Risorse Umane presso ICS Learn, (UK)
+  
+	2018 – Certificazione CIPD Livello 3 in # Pratiche di Risorse Umane presso ICS Learn, (UK)
+  
+  2014 – Certificazione di #Lingua Inglese Livello C1 presso Embassy Study Centre, (UK)
+  
+	2014 – Diploma di maturità Scientifica presso il Liceo S.Di Giacomo, (NA)
+  
 
 # ESPERIENZE PROFESSIONALI
 # GIU 2025 – SET 2025 | Receptionist Cooking Class - SI.LU.ANT. SRL – Amalfi (SA), Italia
