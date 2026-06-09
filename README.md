@@ -1,6 +1,6 @@
 # CV-GIULIANA TECCHIO
 
-# Informazioni di contatto: +39 379 24 66 493 | giulianatcch@gmail.com | Napoli, Italia
+# Informazioni di contatto: +39 379 24 66 493 | Napoli, Italia| giulianatcch@gmail.com 
 
 
 # PROFILO PROFESSIONALE: 
@@ -39,11 +39,11 @@ Junior Web Developer con competenze consolidate nello sviluppo di applicazioni w
   
 
 # ESPERIENZE PROFESSIONALI
+
 # GIU 2025 – SET 2025 | Receptionist Cooking Class - SI.LU.ANT. SRL – Amalfi (SA), Italia
 - Fornito supporto informativo multilingue su orari, logistica, trasporti pubblici e dettagli del territorio, garantendo un'esperienza utente eccellente. 
-
 - Gestione delle procedure di check-in, registrazione partecipanti e flussi operativi della struttura.
-- 
+
 # APR 2022 – DIC 2025 | Specialista del Servizio Clienti – Optima Italia S.p.A. – Napoli, Italia
 -	Analisi dei dati statistici per determinare il livello del servizio clienti offerto;
 -	Miglioramento delle procedure e degli standard e supervisione del team di Customer Care e formazione del personale;
@@ -54,7 +54,7 @@ Junior Web Developer con competenze consolidate nello sviluppo di applicazioni w
 # MAR 2018 – SET 2020 | Hostess & Promoter – Haribo, Imperial Tobacco e altri – Campania, Italia
 -	Utilizzo di spiccate doti comunicative e interpersonali per instaurare rapidamente relazioni positive con i clienti e finalizzare le vendite;
 # SET 2017 – FEB 2018 | Assistente Catering – Crowne Plaza Hotel – Nottingham, Regno Unito
-•	Supervisione della regolare gestione quotidiana di eventi privati (fino a 600 ospiti), garantendo la completa soddisfazione del cliente.
+-	Supervisione della regolare gestione quotidiana di eventi privati (fino a 600 ospiti), garantendo la completa soddisfazione del cliente.
 # OTT 2015 – AGO 2017 | Supervisor/Store Manager– Simit Sarayi – Londra, Regno Unito
 -	Formazione e tutoraggio dei membri del team per il raggiungimento costante dei KPI aziendali; -	Rappresentazione dei valori aziendali come modello di riferimento, con focus su rispetto, onestà, integrità, diversità, inclusione e sicurezza altrui;
 
