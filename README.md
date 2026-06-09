@@ -31,9 +31,9 @@ Italiano: Madrelingua                          Inglese: Avanzato                
   
 	2018 – Certificazione CIPD Livello 3 in # Pratiche di Risorse Umane presso ICS Learn, (UK)
   
-  2014 – Certificazione di #Lingua Inglese Livello C1 presso Embassy Study Centre, (UK)
+    2014 – Certificazione di #Lingua Inglese Livello C1 presso Embassy Study Centre, (UK)
   
-	2014 – Diploma di maturità Scientifica presso il Liceo S.Di Giacomo, (NA)
+    2014 – Diploma di maturità Scientifica presso il Liceo S.Di Giacomo, (NA)
   
 
 # ESPERIENZE PROFESSIONALI
