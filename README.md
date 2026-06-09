@@ -7,7 +7,9 @@
 Junior Web Developer con competenze consolidate nello sviluppo di applicazioni web tramite stack HTML/CSS, JavaScript, PHP e Laravel, attualmente specializzanda nell'integrazione di soluzioni sviluppate con Python e Agentic AI. Unisco la passione per il codice a una solida mentalità analitica e a spiccate capacità organizzative, maturate nella supervisione di flussi di lavoro complessi e nel coordinamento di team. 
 
 # LINGUE
-Italiano: Madrelingua                          Inglese: Avanzato                                           Spagnolo: Base
+Italiano: Madrelingua                          
+Inglese: Avanzato                                           
+Spagnolo: Base
 
 # COMPETENZE TECNICHE
 -	HTML5, CSS, JavaScript, PHP, Laravel, Python 
@@ -23,15 +25,15 @@ Italiano: Madrelingua                          Inglese: Avanzato                
 -	Apprendimento continuo
 
 # ISTRUZIONE E FORMAZIONE
-	2026/in corso – Certificazione di specializzazione in # Agentic AI & Python presso Aulab,(BA)
+	2026/in corso – Certificazione di specializzazione in Agentic AI & Python presso Aulab,(BA)
 
-	2026 – Certificazione # Web Application Developer Certipass presso Aulab,(BA)
+	2026 – Certificazione Web Application Developer Certipass presso Aulab,(BA)
   
-	2020 – Certificazione CIPD Livello 5 in # Gestione delle Risorse Umane presso ICS Learn, (UK)
+	2020 – Certificazione CIPD Livello 5 in Gestione delle Risorse Umane presso ICS Learn, (UK)
   
-	2018 – Certificazione CIPD Livello 3 in # Pratiche di Risorse Umane presso ICS Learn, (UK)
+	2018 – Certificazione CIPD Livello 3 in Pratiche di Risorse Umane presso ICS Learn, (UK)
   
-    2014 – Certificazione di #Lingua Inglese Livello C1 presso Embassy Study Centre, (UK)
+    2014 – Certificazione di Lingua Inglese Livello C1 presso Embassy Study Centre, (UK)
   
     2014 – Diploma di maturità Scientifica presso il Liceo S.Di Giacomo, (NA)
   
