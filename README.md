@@ -1,94 +1,59 @@
-# CV-Giuliana-Tecchio
+# CV-GIULIANA TECCHIO
 curriculum vitae_ giuliana.tecchio_esercizio_3
+#Informazioni di contatto: +39 379 24 66 493 | giulianatcch@gmail.com | Napoli, Italia
 
-# Profilo Professionale: 
-Lavoro bene in ambienti altamente pressurizzati e sotto rigide scadenze; fornisco supportoottimale e collaboro bene con persone di differente estrazione sociale e culturale. 
-Ho acquisito forti capacitàgestionali, interpersonali e comunicative grazie alle precedenti esperienze all’interno di organizzazioni in crescita. Ottimo servizio clienti e comunicazione. Attualmente sto re-codificando
-me stessa studiando presso Aulab il corso Full stack developer developer e conto di specializzarmi in cybersecurity poichè credo che questo campo sia il futuro del mondo del lavoro.
 
-# ESPERIENZE LAVORATIVE
-
-Assistenza Clienti: Aprile 2021 – ad Oggi – Optima Italia S.p.A
-
-Assistenza al cliente e/o consulente di vendita in caso di problematiche post-acquisto. Analisi
-dei dati statistici per determinare il livello di servizio al cliente fornito. Miglioramento delle
-procedure, delle politiche e degli standard del Customer Service. Supervisione del team
-Customer Care e formazione del personale. Raccolta di feedback dai clienti e reporting di dati
-utili per la crescita aziendale e della soddisfazione del cliente.
-
-Responsabile di Logistica: Ottobre 2020/Oggi – All Fast Srls, Napoli
-
-Gestione della logistica, del deposito, dei trasporti e del servizio clienti. Direzione;
-Ottimizzazione e coordinamento dell’intero ciclo degli ordini. Fatturazione e contabilità.
-Assistente delle Risorse Umane: Maggio 2020/Ottobre 2020 – Deva Gr., Napoli
-Schermatura e Selezione del personale; Gestione colloqui e dati dei cantidati.
-
-Hostess e Promoter: Marzo 2018/Aprile 2020 – Presso varie agenize che ospitano eventi
-per grandi compagnie e brands come Haribo, Imperial Tobacco e Sky, Napoli
-
-Collaborazione per l'allestimento degli stand e alla preparazione dell’ambiente che ospita
-l’evento; Accoglienza e assistenza ai partecipanti; Quando previsto, registrazione delle
-anagrafiche dei partecipanti. Interventi tempestivi in caso di necessità e provvedere a
-eventuali soluzioni; Quando previsto, redigere attestati di partecipazione, somministrare
-questionari o altri strumenti rivelatori della Customer Satisfaction.
-
-Responsabile di Sala: Settembre 2017/Febbraio 2018 – Crowne Plaza Hotel (IHG), Nottingham (UK)
-
-Garantire continua ed estrema pulizia di stoviglie, posate e utensili per un funzionamento
-regolare del servizio; Supervisionare eventi affollati fino a 400 ospiti e garantire la completa
-soddisfazione del cliente e la completa formazione del personale.
-
-Direttore Generale: Gennaio 2017/Agosto2017 – Simit Sarayi, London (UK)
-
-Selezione, formazione e guida attraverso l’esperienza professionale e lo sviluppo personale
-del team per contribuire ai KPIs aziendali; Garantire la chiarezza e il rispetto delle politiche
-aziendali per la continua conformità; Valutazione delle relazioni aziendali.
-
-Assistente Direttore Generale: Agosto 2016/ Gennaio 2017 – Simit Sarayi, London (UK)
-
-Collaborazione con i capi reparto per identificare le opportunità, sviluppare soluzioni
-tempestive, creare piani d'azione e pianificazione dei talenti; Dimostrare i valori
-fondamentali dell'azienda come modello di comportamento, con particolare attenzione al
-rispetto, all'onestà, all'integrità, alla diversità, all'inclusione e alla sicurezza degli altri;
-Creare relazioni proattive e produttive con i dipendenti e i dirigenti.
-
-Responsabile di Negozio: Marzo 2016/Agosto2016 – Simit Sarayi, London (UK)
-
-Assegnazione di posti di lavoro ai dipendenti tenendo conto della formazione precedente,
-delle capacità e delle conoscenze generali; Creazione e guida delle promozioni di vendita e
-strategie pubblicitarie per aumentare i profitti.
-
-Responsabile di Vendite: Ottobre 2015/Marzo 2016 – Simit Sarayi, London (UK)
-
-Fornire un servizio clienti professionale, offrendo un atteggiamento propositivo ad ogni
-richiesta e collaborando al massimo con il resto del gruppo.
-
-# ISRUZIONE E FORMAZIONE
-"Aulab", Corso Web Developer Hackademy+ in corso
-
-“Ics Learn”, CIPD LEVEL 5 in L&D, 2020
-
-“Ics Learn”, CIPD LEVEL 3 in HR Practice, 2018
-
-HACCP, Hazard Analysis & Critical Control Points, 2017
-
-English C1, Embassy Study Centre, Cambridge, 2014
-
-High School Diploma in Scientific Subjects, 2014
+# PFOFILO PROFESSIONALE: 
+Junior Web Developer con competenze consolidate nello sviluppo di applicazioni web tramite stack HTML/CSS, JavaScript, PHP e Laravel, attualmente specializzanda nell'integrazione di soluzioni sviluppate con Python e Agentic AI. Unisco la passione per il codice a una solida mentalità analitica e a spiccate capacità organizzative, maturate nella supervisione di flussi di lavoro complessi e nel coordinamento di team. 
 
 # LINGUE
+Italiano: Madrelingua                          Inglese: Avanzato                                           Spagnolo: Base
 
-• Italiano: Madrelingua 
-• Inglese: Fluente 
-• Spagnolo: Intermedio
+# COMPETENZE TECNICHE
+-	HTML5, CSS, JavaScript, PHP, Laravel, Python 
+-	Git, GitHub,
+-	Database SQL 
+-	Pacchetto Microsoft Office 
+-	CRM e Customer Management Tools
 
-# CONOSCENZE INFORMATICHE
+#  COMPETENZE TRASVERSALI
+-	Adattamento, pianificazione e organizzazione
+-	Gestione del tempo 
+-	Lavoro di squadra 
+-	Apprendimento continuo
 
-Ottima conoscenza dell’applicativo Office Internet e Posta Elettronica, HTML e CSS
-Referenze disponibili su richiesta
+# ISTRUZIONE E FORMAZIONE
+•	2026/in corso – Certificazione di specializzazione in # Agentic AI & Python presso Aulab,(BA)
+•	2026 – Certificazione # Web Application Developer Certipass presso Aulab,(BA)
+•	2020 – Certificazione CIPD Livello 5 in # Gestione delle Risorse Umane presso ICS Learn, (UK)
+•	2018 – Certificazione CIPD Livello 3 in # Pratiche di Risorse Umane presso ICS Learn, (UK)
+•	2014 – Certificazione di #Lingua Inglese Livello C1 presso Embassy Study Centre, (UK)
+•	2014 – Diploma di maturità Scientifica presso il Liceo S.Di Giacomo, (NA)
 
-# CONTATTI
-+39 3792466493 — giulianatcch@gmail.com
+# ESPERIENZE PROFESSIONALI
+# GIU 2025 – SET 2025 | Receptionist Cooking Class - SI.LU.ANT. SRL – Amalfi (SA), Italia
+•	Fornito supporto informativo multilingue su orari, logistica, trasporti pubblici e dettagli del territorio, garantendo un'esperienza utente eccellente. 
+•	Gestione delle procedure di check-in, registrazione partecipanti e flussi operativi della struttura.
+# APR 2022 – DIC 2025 | Specialista del Servizio Clienti – Optima Italia S.p.A. – Napoli, Italia
+•	Analisi dei dati statistici per determinare il livello del servizio clienti offerto;
+•	Miglioramento delle procedure e degli standard e supervisione del team di Customer Care e formazione del personale;
+•	Raccolta dei feedback dei clienti e reportistica dei dati utili alla crescita aziendale e alla soddisfazione del cliente.
+# OTT 2020 – MAR 2022 | Impiegato Logistico – All Fast Srl – Napoli, Italia
+•	Analisi e ricerca delle esigenze dei clienti per sviluppare la migliore strategia per soddisfarle;
+•	Supervisione dell'intero processo di spedizione, dall'acquisizione fino alla consegna. Corrispondenza e coordinamento con clienti, fornitori, magazzini e snodi di trasporto per garantire l'efficienza del servizio.
+# MAR 2018 – SET 2020 | Hostess & Promoter – Haribo, Imperial Tobacco e altri – Campania, Italia
+•	Utilizzo di spiccate doti comunicative e interpersonali per instaurare rapidamente relazioni positive con i clienti e finalizzare le vendite;
+# SET 2017 – FEB 2018 | Assistente Catering – Crowne Plaza Hotel – Nottingham, Regno Unito
+•	Supervisione della regolare gestione quotidiana di eventi privati (fino a 600 ospiti), garantendo la completa soddisfazione del cliente.
+# OTT 2015 – AGO 2017 | Supervisor/Store Manager– Simit Sarayi – Londra, Regno Unito
+•	Formazione e tutoraggio dei membri del team per il raggiungimento costante dei KPI aziendali; 
+•	Rappresentazione dei valori aziendali come modello di riferimento, con focus su rispetto, onestà, integrità, diversità, inclusione e sicurezza altrui;
+
+
+
+
+
+Autorizzo il trattamento dei miei dati personali presenti nel CV ai sensi del Regolamento Generale sulla Protezione dei Dati (GDPR) 679/2016.
 
 
 
