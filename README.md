@@ -1,5 +1,5 @@
 # CV-GIULIANA TECCHIO
-curriculum vitae_ giuliana.tecchio_esercizio_3
+
 #Informazioni di contatto: +39 379 24 66 493 | giulianatcch@gmail.com | Napoli, Italia
 
 
