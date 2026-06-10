@@ -51,17 +51,17 @@ Junior Web Developer con competenze consolidate nello sviluppo di applicazioni w
 -	Analisi dei dati statistici per determinare il livello del servizio clienti offerto;
 -	Miglioramento delle procedure e degli standard e supervisione del team di Customer Care e formazione del personale;
 -	Raccolta dei feedback dei clienti e reportistica dei dati utili alla crescita aziendale e alla soddisfazione del cliente.
--	
+  
 OTT 2020 – MAR 2022 | Impiegato Logistico – All Fast Srl – Napoli, Italia
 -	Analisi e ricerca delle esigenze dei clienti per sviluppare la migliore strategia per soddisfarle;
 -	Supervisione dell'intero processo di spedizione, dall'acquisizione fino alla consegna. Corrispondenza e coordinamento con clienti, fornitori, magazzini e snodi di trasporto per garantire l'efficienza del servizio.
--	
+  
 MAR 2018 – SET 2020 | Hostess & Promoter – Haribo, Imperial Tobacco e altri – Campania, Italia
 -	Utilizzo di spiccate doti comunicative e interpersonali per instaurare rapidamente relazioni positive con i clienti e finalizzare le vendite;
--	
+	
 SET 2017 – FEB 2018 | Assistente Catering – Crowne Plaza Hotel – Nottingham, Regno Unito
 -	Supervisione della regolare gestione quotidiana di eventi privati (fino a 600 ospiti), garantendo la completa soddisfazione del cliente.
--	
+  
 OTT 2015 – AGO 2017 | Supervisor/Store Manager– Simit Sarayi – Londra, Regno Unito
 -	Formazione e tutoraggio dei membri del team per il raggiungimento costante dei KPI aziendali; -	Rappresentazione dei valori aziendali come modello di riferimento, con focus su rispetto, onestà, integrità, diversità, inclusione e sicurezza altrui;
 
