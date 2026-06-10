@@ -1,6 +1,8 @@
-# CV-GIULIANA TECCHIO
+# GIULIANA TECCHIO
 
-# Informazioni di contatto: +39 379 24 66 493 | Napoli, Italia| giulianatcch@gmail.com 
+Junior Web Developer | Python & Agentic AI | Customer Service & Operations Background
+
+# Informazioni di contatto: giulianatcch@gmail.com 
 
 
 # PROFILO PROFESSIONALE: 
