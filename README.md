@@ -2,7 +2,7 @@
 
 Junior Web Developer | Python & Agentic AI | Customer Service & Operations Background
 
-# Informazioni di contatto: giulianatcch@gmail.com 
+giulianatcch@gmail.com 
 
 
 # PROFILO PROFESSIONALE: 
